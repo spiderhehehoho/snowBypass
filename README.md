@@ -35,3 +35,8 @@ You can set the timeout by using the `-t`:
 ```
 $ cat urls | snowBypass -t 3
 ```
+
+## Credit
+
+This tool was inspired by @0xAwali methodology. Thanks to him for the great idea!
+
